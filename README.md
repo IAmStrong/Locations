@@ -6,9 +6,9 @@ This application provides the ability to create, edit or delete locations from t
 The application have been completed short after the SoftServe Web UI courses.
 
 This application allows you to:
-- create locations
-- update locations data
-- delete locations
+<li>create locations</li>
+<li>update locations data</li>
+<li>delete locations</li>
 
 It is written in OOP style.
 The animations
