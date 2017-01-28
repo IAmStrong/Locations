@@ -1,6 +1,6 @@
 # Locations
 
-This application has been completed short after the SoftServe Web UI courses.
+This application has been completed short after finishing SoftServe Web UI courses.
 
 The application allows you to:
 
@@ -8,5 +8,4 @@ The application allows you to:
 <li>update locations data</li>
 <li>delete locations</li>
 
-It is written in OOP style.
-The animations
+It is developed using OOP techniques and has lots of animations.
