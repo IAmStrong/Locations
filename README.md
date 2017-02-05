@@ -1,6 +1,6 @@
 # Locations
 
-This application has been completed short after finishing Web UI course at SoftServe.
+This application has been completed short after finishing the Web UI course at SoftServe.
 
 The application allows you to:
 
